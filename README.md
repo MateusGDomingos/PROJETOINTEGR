@@ -12,7 +12,10 @@ Foi feito com Java usando os conceitos de Logica de Programação (Tipos de Dado
 
 
 
-
+NOME: Mateus Gonçalves Domingos - RA: 26001883
+NOME: Sophia da Costa Pedrilo  - RA: 26001902
+NOME: Victor Hugo Teixeira Quiodeto - RA: 25002427
+NOME: William dos Santos Cossa - RA: 26001612
 
 
 
